@@ -1,4 +1,13 @@
 # Cookies and Sessions Lab
+SETUP
+npm install --prefix client
+cd server
+flask db upgrade
+python seed.py
+
+
+
+
 
 ## Learning Goals
 
